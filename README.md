@@ -3,6 +3,8 @@ Introdução a Linguagem de Programação C
 
 Aula 1 - Introdução
 
+https://youtu.be/s8KpDvLnJrc
+
 Aula 2 - Tipos de Dados e Operadores
 
 Aula 3 - Condicionais e Repetição

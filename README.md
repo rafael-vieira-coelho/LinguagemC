@@ -11,6 +11,8 @@ https://youtu.be/xeUxSyQnxFc
 
 Aula 3 - Condicionais e Repetição
 
+https://youtu.be/QITpFaXRVik
+
 Aula 4 - Arrays
 
 Aula 5 - Strings

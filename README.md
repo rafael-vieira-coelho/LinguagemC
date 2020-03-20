@@ -15,6 +15,8 @@ https://youtu.be/QITpFaXRVik
 
 Aula 4 - Arrays
 
+https://youtu.be/v-48MEO58iM
+
 Aula 5 - Strings
 
 Aula 6 - Structs

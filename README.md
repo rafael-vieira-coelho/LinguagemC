@@ -19,6 +19,8 @@ https://youtu.be/v-48MEO58iM
 
 Aula 5 - Strings
 
+https://youtu.be/dDNOX3ZNSGo
+
 Aula 6 - Structs
 
 Aula 7 - Funções e Bibliotecas

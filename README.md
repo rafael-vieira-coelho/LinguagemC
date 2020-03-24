@@ -23,6 +23,8 @@ https://youtu.be/dDNOX3ZNSGo
 
 Aula 6 - Structs
 
+https://www.youtube.com/watch?v=A2qUNVF5owk
+
 Aula 7 - Funções e Bibliotecas
 
 Aula 8 - Ponteiros

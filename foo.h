@@ -1,0 +1,1 @@
+void foo(int id, char *name);

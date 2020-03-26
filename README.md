@@ -3,7 +3,7 @@ Introdução a Linguagem de Programação C
 
 Aula 1 - Introdução
 
-https://www.youtube.com/watch?v=s8KpDvLnJrc
+https://youtu.be/s8KpDvLnJrc
 
 Aula 2 - Tipos de Dados e Operadores
 
@@ -23,7 +23,7 @@ https://youtu.be/dDNOX3ZNSGo
 
 Aula 6 - Structs
 
-https://www.youtube.com/watch?v=A2qUNVF5owk
+https://youtu.be/A2qUNVF5owk
 
 Aula 7 - Funções e Bibliotecas
 

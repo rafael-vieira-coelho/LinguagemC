@@ -31,6 +31,8 @@ https://youtu.be/gePds6fxBu8
 
 Aula 8 - Ponteiros
 
+https://youtu.be/96rdzU0nQNc
+
 Aula 9 - Erros e Alocação Dinâmica
 
 Aula 10 - Arquivos

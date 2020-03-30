@@ -37,5 +37,4 @@ Aula 9 - Erros e Alocação Dinâmica
 
 https://youtu.be/tAELu3RfA2g
 
-
 Aula 10 - Arquivos
